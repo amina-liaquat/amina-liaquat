@@ -72,6 +72,6 @@
 # 🎯 Github Status:
 <p align="center">
  <a href="https://github.com/amina-liaquat25">
-<img  height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amina-liaquat25&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/> <img  height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amina-liaquat25&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
+<img  height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amina-liaquat56&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/> <img  height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amina-liaquat56&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
  </a>
 </p>
