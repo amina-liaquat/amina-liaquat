@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amina-liaquat)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amina-liaquat56)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminaliaquat259@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=amina-liaquat56&color=007FFF&label=+Profile+Views&style=for-the-badge)](https://github.com/amina-liaquat56)
 
 
 
