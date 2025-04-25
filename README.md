@@ -7,7 +7,7 @@ I'm currently pursuing my **MS in Computer Science** at the **University of Agri
 - 🤖 **AI & ML Explorer** : Exploring **AI & ML** to build smart, scalable systems.  
 - 🧮 **DSA & LeetCode** : Grinding **LeetCode & DSA** daily — always up for a challenge 
 - ⌨️ **Typing** : Training my fingers on **Monkeytype** — because speed is fun, but accuracy wins.
-- 
+
 ## 🔗 Connect With Me
 <div align="center" style="margin: 20px 0;">
   
