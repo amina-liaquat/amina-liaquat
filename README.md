@@ -121,4 +121,6 @@ I'm currently pursuing my **MS in Computer Science** at the **University of Agri
   <a href="https://github.com/amina-liaquat56">
     <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
   </a>
+  <!--      <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&show_icons=true&locale=en&layout=demo&theme=dracula&hide_border=true"/> -->
+<!--      <img width="83%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56i&show_icons=true&locale=en&layout=demo&theme=radical&"/
  </div> -->
