@@ -106,19 +106,3 @@ I'm currently pursuing my **MS in Computer Science** at the **University of Agri
 </p>
 
 
-
- <p align="center">
-   <a href="https://github.com/amina-liaquat56"> 
-     <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
-   </a>  
- </p>
-
-<br>
-
-#
-
-<!-- <div align="center">
-  <a href="https://github.com/amina-liaquat56">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
-  </a>
- </div> -->
