@@ -11,7 +11,7 @@ I'm currently pursuing my **MS in Computer Science** at the **University of Agri
 ## 🔗 Connect With Me
 <div align="center" style="margin: 20px 0;">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-liaquat/)
+[![LinedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-liaquat/)
 [![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amina-liaquat56)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminaliaquat41@gmail.com)
 [![LeetCode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amina_liaquat04/)
