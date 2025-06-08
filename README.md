@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Amina Liaquat</h1>
+# <p align='center'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, It's Amina Liaquat.</p>
 
 ## 🌟 About Me
 
