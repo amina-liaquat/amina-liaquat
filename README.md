@@ -103,6 +103,8 @@ I'm currently pursuing my **MS in Computer Science** at the **University of Agri
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amina-liaquat56&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amina-liaquat56&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true"/>
+</p>
 </p>
 
 
