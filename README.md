@@ -1,8 +1,9 @@
 <h2 align='center'> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-## 🌟 About Me
+I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at the **University of Agriculture, Faisalabad**. I'm learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily see. I also enjoy programming in Javascript and Python because they challenge me more. I love it when I can finally solve a difficult problem.
 
-I'm currently pursuing my **MS in Computer Science** at the **University of Agriculture, Faisalabad**.
+## 🌟 About 
+
 - 🏅 **2x CS50x Puzzle Day Winner** — 2024 & 2025: Solving puzzles is my happy place.
 - 🤖 **AI & ML Explorer** : Exploring **AI & ML** to build smart, scalable systems.  
 - 🧮 **DSA & LeetCode** : Grinding **LeetCode & DSA** daily — always up for a challenge. 
