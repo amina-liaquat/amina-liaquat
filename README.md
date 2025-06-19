@@ -16,6 +16,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 [![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amina-liaquat56)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminaliaquat41@gmail.com)
 [![LeetCode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amina_liaquat04/)
+[![Twitter](https://img.shields.io/badge/Twitter-181717?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/amina_liaquat25?t=Be-rDRLeOSfyuYqXyrKIAw&s=08)
 ![Visitor Count](https://komarev.com/ghpvc/?username=amina-liaquat56&color=7F3FBF&style=for-the-badge&label=Profile+Views)
 
 </div>
