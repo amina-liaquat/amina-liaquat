@@ -13,12 +13,13 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 ## 🔗 Connect With Me
 <div align="center" style="margin: 20px 0;">
   
-[![LinedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-liaquat/)
-[![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amina-liaquat56)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminaliaquat41@gmail.com)
-[![LeetCode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amina_liaquat04/)
-[![Twitter](https://img.shields.io/badge/Twitter-181717?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/amina_liaquat25?t=Be-rDRLeOSfyuYqXyrKIAw&s=08)
-![Visitor Count](https://komarev.com/ghpvc/?username=amina-liaquat56&color=7F3FBF&style=for-the-badge&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amina-liaquat/)
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:aminaliaquat41@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/amina-liaquat56)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/amina_liaquat04/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/amina-liaquat25)
+![Profile Views](https://komarev.com/ghpvc/?username=amina-liaquat56&style=flat-square&color=blue)
+
 
 </div>
 
