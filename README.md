@@ -14,7 +14,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 <div align="center" style="margin: 20px 0;">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amina-liaquat/)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:aminaliaquat41@example.com)
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:aminaliaquat41@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/amina-liaquat56)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/amina_liaquat04/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://x.com/amina_liaquat25?t=Be-rDRLeOSfyuYqXyrKIAw&s=08)
