@@ -112,6 +112,10 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
       <img src="https://img.icons8.com/?size=512&id=62452&format=png" width="40" height="40" alt="Firebase" />
       <br>Firebase
     </td>
+     <td align="center" width="120">
+      <img src="https://images.seeklogo.com/logo-png/47/3/netlify-icon-logo-png_seeklogo-477950.png" width="40" height="40" alt="Netlify" />
+      <br>Netlify
+    </td>
    </tr>
         
   </table>
