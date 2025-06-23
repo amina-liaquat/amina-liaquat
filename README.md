@@ -99,7 +99,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
     </td>
   </tr>
        <!-- Row 4 -->
-        <tr>
+   <tr>
     <td align="center" width="120">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="Matlab" />
       <br>MatLab
@@ -107,9 +107,14 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
      <td align="center" width="120">
       <img src="https://anturis.com/wp-content/uploads/2022/09/Cisco-Packet-Tracer-Logo-1.png" width="40" height="40" alt="Cisco Packet Tracer" />
       <br>CPT
+     </td>
+       <td align="center" width="120">
+      <img src="https://img.icons8.com/?size=512&id=62452&format=png" width="40" height="40" alt="Firebase" />
+      <br>Firebase
     </td>
-    
-</table>
+   </tr>
+        
+  </table>
 
 
 ## 📊 GitHub Analytics
