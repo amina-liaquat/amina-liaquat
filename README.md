@@ -26,7 +26,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 
 
 ## 💻 Technical Skills
-<table align="center">
+<table style="margin: 0 auto;">
   <!-- Row 1 -->
   <tr>
     <td align="center" width="120">
@@ -49,14 +49,14 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
       <br>Python
     </td>
-  </tr>
-  
-  <!-- Row 2 -->
-  <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
       <br>Jupyter
     </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
       <br>Git
@@ -70,13 +70,9 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
       <br>WordPress
     </td>
     <td align="center" width="120">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLueaRJsD38b32MAw93xzUa7Pftq_l8BUDOw&s" width="40" height="40" alt="DSA" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLueaRJsD38b32MAw93xzUa7Pftq_l8BUDOw&s" width="40" height="40" alt="Data Structures and Algorithms" />
       <br>DSA
     </td>
-  </tr>
-  
-  <!-- Row 3 -->
-  <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
       <br>VS Code
@@ -85,6 +81,10 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm" />
       <br>PyCharm
     </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
       <br>PHP
@@ -93,32 +93,33 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda" />
       <br>Anaconda
     </td>
-  <td align="center" width="120">
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" alt="Slack" />
       <br>Slack
     </td>
-  </tr>
-       <!-- Row 4 -->
-   <tr>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="Matlab" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MatLab" />
       <br>MatLab
     </td>
-     <td align="center" width="120">
+    <td align="center" width="120">
       <img src="https://anturis.com/wp-content/uploads/2022/09/Cisco-Packet-Tracer-Logo-1.png" width="40" height="40" alt="Cisco Packet Tracer" />
       <br>CPT
-     </td>
-       <td align="center" width="120">
+    </td>
+    <td align="center" width="120">
       <img src="https://img.icons8.com/?size=512&id=62452&format=png" width="40" height="40" alt="Firebase" />
       <br>Firebase
     </td>
-     <td align="center" width="120">
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td align="center" width="120">
       <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F141%2F786e7a76-3019-4b70-9d33-663ffdbb1d8e.png" width="40" height="40" alt="Netlify" />
       <br>Netlify
     </td>
-   </tr>
-        
-  </table>
+  </tr>
+</table>
+
 
 
 ## 📊 GitHub Analytics
