@@ -26,7 +26,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 
 
 ## 💻 Technical Skills
-<table style="margin: 0 auto;">
+<table align = "center" style="margin: 0 auto;">
   <!-- Row 1 -->
   <tr>
     <td align="center" width="120">
@@ -119,6 +119,9 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
     </td>
   </tr>
 </table>
+
+
+
 
 
 
