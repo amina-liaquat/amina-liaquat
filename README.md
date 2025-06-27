@@ -7,7 +7,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 - 💻 I'm currently working on **Web Development**.
 - 🏅 **2x CS50x Puzzle Day Winner** — 2024 & 2025: Solving puzzles is my happy place.
 - 🤖 **AI & ML Explorer** : Exploring **AI & ML** to build smart, scalable systems.  
-- 🧮 **DSA & LeetCode** : Grinding **LeetCode & DSA** daily — always up for a challenge. 
+- 🧮 **DSA & LeetCode** : Grinding **LeetCode & DSA** daily — always up for a challenge.
 - ⌨️ **Typing** : Training my fingers on **Monkeytype** — because speed is fun, but accuracy wins.
 
 ## 🔗 Connect With Me
