@@ -55,7 +55,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
     <td width="120"><img src="https://img.icons8.com/?size=512&id=62452&format=png" width="40" height="40" alt="Firebase" /><br>Firebase</td>
     <td width="120"><img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F141%2F786e7a76-3019-4b70-9d33-663ffdbb1d8e.png" width="40" height="40" alt="Netlify" /><br>Netlify</td>
     <td width="120"><img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2F04e0406e-0402-4aa8-95f4-402815f1fcb4&w=384&q=75" width="40" height="40" alt="Mendeley" /><br>Mendeley</td>
-    <td width="120"></td> <!-- Empty cell for alignment -->
+    <td width="120"></td> 
   </tr>
 </table>
 
