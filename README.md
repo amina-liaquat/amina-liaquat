@@ -54,7 +54,6 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
     <td width="120"><img src="https://img.icons8.com/?size=512&id=62452&format=png" width="40" height="40" alt="Firebase" /><br>Firebase</td>
     <td width="120"><img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F141%2F786e7a76-3019-4b70-9d33-663ffdbb1d8e.png" width="40" height="40" alt="Netlify" /><br>Netlify</td>
     <td width="120"><img src="https://images.ctfassets.net/nrgyaltdicpt/3nesOc6iRhdzatUCC5OKWo/ea0fc03647a5f6a903a9aacc357481b2/overleaf-o-logo-primary.jpg" width="40" height="40" alt="overleaf" /><br>Overleaf</td>
-    <td width="120"></td> 
   </tr>
 </table>
 
