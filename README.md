@@ -10,7 +10,8 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 - 🧮 **DSA & LeetCode** : Grinding **LeetCode & DSA** daily — always up for a challenge.
 - ⌨️ **Typing** : Training my fingers on **Monkeytype** — because speed is fun, but accuracy wins.
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me 
+  <br>
 <div align="center" style="margin: 20px 0;">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amina-liaquat/)
@@ -19,7 +20,6 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/amina_liaquat04/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://x.com/amina_liaquat25?t=Be-rDRLeOSfyuYqXyrKIAw&s=08)
 ![Profile Views](https://komarev.com/ghpvc/?username=amina-liaquat56&style=flat-square&color=blue)
-
 
 </div>
 
