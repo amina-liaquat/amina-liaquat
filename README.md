@@ -58,22 +58,21 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
     <td width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MatLab" /><br>MatLab</td>
     <td width="120"><img src="https://img.icons8.com/?size=512&id=62452&format=png" width="40" height="40" alt="Firebase" /><br>Firebase</td>
     <td width="120"><img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F141%2F786e7a76-3019-4b70-9d33-663ffdbb1d8e.png" width="40" height="40" alt="Netlify" /><br>Netlify</td>
-    <td width="120"><img src="https://images.ctfassets.net/nrgyaltdicpt/3nesOc6iRhdzatUCC5OKWo/ea0fc03647a5f6a903a9aacc357481b2/overleaf-o-logo-primary.jpg" width="40" height="40" alt="Overleaf" /><br>Overleaf</td>    
+       
   </tr>
 </table>
 
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <!-- Main Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-  
-  <!-- Wider Languages Card -->
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=8&theme=nightowl&hide_border=true&card_width=400"/>
-  
-  <!-- Streak Stats -->
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&theme=nightowl&hide_border=true"/>
+  <a href="https://github.com/amina-liaquat56">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
+  <br/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 
 
