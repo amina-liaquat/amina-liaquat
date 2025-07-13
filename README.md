@@ -65,14 +65,15 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 
 ## 📊 GitHub Analytics
 <p align="center">
-    <a href="https://github.com/amina-liaquat56">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&bg_color=0D1117,16213E&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&bg_color=0D1117,16213E&title_color=58A6FF&text_color=C9D1D9&hide_border=true&langs_count=8"/>
-    </a>
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&background=0D1117&foreground=58A6FF&ring=79C0FF&fire=79C0FF&currStreakNum=C9D1D9&sideNums=58A6FF&sideLabels=79C0FF&hide_border=true"/>
+  <!-- Main Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
+  
+  <!-- Wider Languages Card -->
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=8&theme=nightowl&hide_border=true&card_width=400"/>
+  
+  <!-- Streak Stats -->
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&theme=nightowl&hide_border=true"/>
 </p>
-
-
 
 
 
