@@ -4,13 +4,29 @@
 
 I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at the **University of Agriculture, Faisalabad**. I'm learning how to code. I love making and designing webpages.  It's fun to code something that anyone on the web can easily see. I  enjoy programming in Javascript and Python because they challenge me more. I love it when I can finally solve a difficult problem.
 
-## 🌟 About 
+## 🌟 About Me
 
-- 💻 I'm currently working on **Web Development**.
-- 🏅 **2x CS50x Puzzle Day Winner** — 2024 & 2025: Solving puzzles is my happy place.
-- 🤖 **AI & ML Explorer** : Exploring **AI & ML** to build smart, scalable systems.  
-- 🧮 **DSA & LeetCode** : Grinding **LeetCode & DSA** daily — always up for a challenge.
-- ⌨️ **Typing** : Training my fingers on **Monkeytype** — because speed is fun, but accuracy wins.
+- **Web Development**  
+  Frontend development using **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **WordPress**.  
+  Always learning and building something new!
+
+- **2x CS50x Puzzle Day Winner** (2024 & 2025)  
+  Puzzle solving is my favorite brain workout.  
+  Check it out here: [CS50 Puzzle Day](https://ik.imagekit.io/fjchcwc5f/WhatsApp\%20Image\%202025-07-06\%20at\%2010.53.51\%20AM.jpeg?updatedAt=1751781535212)
+
+- **AI & Machine Learning**  
+  Currently researching deep learning  using **DenseNet201**.  
+  Working with **Python**, **Jupyter**, and **Anaconda**.
+
+- **DSA & LeetCode**  
+  Practicing **Data Structures & Algorithms** every day.  
+  Solving challenges to sharpen my logic and coding skills.  
+  [LeetCode Profile](https://leetcode.com/u/amina_liaquat04/)
+
+- **Typing Speed Journey**  
+  From 18 WPM to **56 WPM** on Monkeytype — and still improving!  
+   [Try Monkeytype](https://monkeytype.com)
+
 
 ## 🔗 Connect With Me 
   <br>
