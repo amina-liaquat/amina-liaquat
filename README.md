@@ -1,12 +1,11 @@
 <h2 align="center">
   ━━━━━━  Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!  ━━━━━━ 
 </h2> 
-    
+    <br>
 I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at the **University of Agriculture, Faisalabad**. I'm learning how to code. I love making and designing webpages.  It's fun to code something that anyone on the web can easily see. I  enjoy programming in Javascript and Python because they challenge me more. I love it when I can finally solve a difficult problem.
 
 
-## 🌟 About Me
-
+## 🌟 About  <br>
 - **Web Development**  
   Frontend development using **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **WordPress**.  
   Always learning and building something new!
@@ -29,6 +28,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
    [Try Monkeytype](https://monkeytype.com)
 
 ## 🔗 Connect With Me
+<br>
 
 <table align="center">
   <tr>
@@ -69,14 +69,8 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
   <img src="https://komarev.com/ghpvc/?username=amina-liaquat56&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
-
-
-
-
-
-
-
 ## 💻 Technical Skills
+<br>
 <div align="center">
   <table>
     <tr>
@@ -147,7 +141,8 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
   </table>
 </div>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics 
+<br>
 <p align="center">
   <a href="https://github.com/amina-liaquat56">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
