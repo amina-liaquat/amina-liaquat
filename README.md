@@ -28,19 +28,53 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
   From 18 WPM to **56 WPM** on Monkeytype — and still improving!  
    [Try Monkeytype](https://monkeytype.com)
 
+## 🔗 Connect With Me
 
-## 🔗 Connect With Me 
-  <br>
-<div align="center" style="margin: 20px 0;">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amina-liaquat/)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:aminaliaquat41@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/amina-liaquat56)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/amina_liaquat04/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://x.com/amina_liaquat25?t=Be-rDRLeOSfyuYqXyrKIAw&s=08)
-![Profile Views](https://komarev.com/ghpvc/?username=amina-liaquat56&style=flat-square&color=blue)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/amina-liaquat/" target="_blank">
+        <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/><br/>
+        <strong>LinkedIn</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:aminaliaquat41@gmail.com">
+        <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/><br/>
+        <strong>Email</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/amina-liaquat56" target="_blank">
+        <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/><br/>
+        <strong>GitHub</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/amina_liaquat04/" target="_blank">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/><br/>
+        <strong>LeetCode</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/amina_liaquat25?t=Be-rDRLeOSfyuYqXyrKIAw&s=08" target="_blank">
+        <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/><br/>
+        <strong>Twitter</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amina-liaquat56&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+
+
+
+
+
+
 
 ## 💻 Technical Skills
 <div align="center">
