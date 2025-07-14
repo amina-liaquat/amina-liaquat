@@ -1,7 +1,7 @@
 <h2 align="center">
   ━━━━━━  Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!  ━━━━━━ 
 </h2> 
-    <br>
+    
 I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at the **University of Agriculture, Faisalabad**. I'm learning how to code. I love making and designing webpages.  It's fun to code something that anyone on the web can easily see. I  enjoy programming in Javascript and Python because they challenge me more. I love it when I can finally solve a difficult problem.
 
 
