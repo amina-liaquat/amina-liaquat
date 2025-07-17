@@ -24,7 +24,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
   [LeetCode Profile](https://leetcode.com/u/amina_liaquat04/)
 
 - **Typing Speed Journey**  
-  From 18 WPM to **56 WPM** on Monkeytype — and still improving!  
+  From 18 WPM to **40 WPM** on Monkeytype — and still improving!  
    [Try Monkeytype](https://monkeytype.com)
 
 ## 🔗 Connect With Me
