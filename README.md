@@ -71,106 +71,92 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 
 ## 💻 Technical Skills
 <br>
-<div align="center">
+<table align= "center">
+  <!-- Row 1 -->
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" /><br><sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" /><br><sub><b>CSS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" /><br><sub><b>Bootstrap 5</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /><br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" /><br><sub><b>PHP</b></sub>
+    </td>
+  </tr>
 
-  <!-- Languages -->
-  <h3>Languages</h3>
-  <table style="border-spacing: 25px 15px;">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/><br><sub><b>HTML</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/><br><sub><b>CSS</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br><sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/><br><sub><b>PHP</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br><sub><b>Python</b></sub>
-      </td>
-    </tr>
-  </table>
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter" /><br><sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /><br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" /><br><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" alt="WordPress" /><br><sub><b>WordPress</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLueaRJsD38b32MAw93xzUa7Pftq_l8BUDOw&s" width="40" alt="DSA" /><br><sub><b>DSA</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" /><br><sub><b>VS Code</b></sub>
+    </td>
+  </tr>
 
-  <!-- Libraries & Frameworks -->
-  <h3>Libraries & Frameworks</h3>
-  <table style="border-spacing: 25px 15px;">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/><br><sub><b>Bootstrap 5</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/><br><sub><b>Firebase</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress"/><br><sub><b>WordPress</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="40" height="40" alt="DSA"/><br><sub><b>DSA</b></sub>
-      </td>
-    </tr>
-  </table>
+  <!-- Row 3 -->
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm" /><br><sub><b>PyCharm</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" alt="Anaconda" /><br><sub><b>Anaconda</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" alt="Slack" /><br><sub><b>Slack</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MatLab" /><br><sub><b>MatLab</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" /><br><sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXiDkNz1jCL6FhvOOZcqs8RcnqrKlAjNaFHQ&s" width="40" alt="Netlify" /><br><sub><b>Netlify</b></sub>
+    </td>
+  </tr>
 
-  <!-- Tools & Platforms -->
-  <h3>Tools & Platforms</h3>
-  <table style="border-spacing: 25px 15px;">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br><sub><b>Git</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br><sub><b>GitHub</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBO2YVaVDoviYv40grFig4C5nh8t-pmlVRlc2NpI1iesORI-Qn4XHedHrRh9_vhgZCy4c&usqp=CAU" width="40" height="40" alt="Netlify"/><br><sub><b>Netlify</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://localwp.com/wp-content/uploads/2021/01/local-lightning-icon.png" width="40" height="40" alt="Local"/><br><sub><b>Local</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="40" height="40" alt="XAMPP"/><br><sub><b>XAMPP</b></sub>
-      </td>
-    </tr>
-  </table>
+  <!-- Row 4 -->
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" /><br><sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://localwp.com/wp-content/uploads/2021/01/local-lightning-icon.png" width="40" alt="LocalWP" /><br><sub><b>Local</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="40" alt="XAMPP" /><br><sub><b>XAMPP</b></sub>
+    </td>
+  </tr>
+</table>
 
-  <!-- IDEs & Environments -->
-  <h3>IDEs & Environments</h3>
-  <table style="border-spacing: 25px 15px;">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br><sub><b>VS Code</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/><br><sub><b>PyCharm</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda"/><br><sub><b>Anaconda</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/><br><sub><b>Jupyter</b></sub>
-      </td>
-    </tr>
-  </table>
 
-  <!-- Design & Collaboration -->
-  <h3>Design & Collaboration</h3>
-  <table style="border-spacing: 25px 15px;">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br><sub><b>Figma</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" alt="Slack"/><br><sub><b>Slack</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MatLab"/><br><sub><b>MatLab</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+
+
+
+
 
 
 
