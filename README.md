@@ -5,7 +5,7 @@
 I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at the **University of Agriculture, Faisalabad**. I'm learning how to code. I love making and designing webpages.  It's fun to code something that anyone on the web can easily see. I  enjoy programming in Javascript and Python because they challenge me more. I love it when I can finally solve a difficult problems.
 
 
-## 🌟 About Me <br>
+ ## 🌟About Me <br> 
 - **Web Development**  
   Frontend development using **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **WordPress**.  
   Always learning and building something new!
