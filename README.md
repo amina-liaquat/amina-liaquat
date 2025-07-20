@@ -153,6 +153,9 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
     <td align="center" width="100">
       <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="40" alt="XAMPP" /><br><sub><b>XAMPP</b></sub>
     </td>
+    <td align="center" width="100">
+      <img src="https://avatars.githubusercontent.com/u/164544218?s=200&v=4" width="40" alt="Thunder Client" /><br><sub><b>Thunder Client</b></sub>
+    </td>
   </tr>
 </table>
 </div>
