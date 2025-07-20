@@ -157,7 +157,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 <p align="center">
   <a href="https://github.com/amina-liaquat56">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=9&theme=tokyonight&hide_border=true"/>
   </a>
   <br/>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true"/>
