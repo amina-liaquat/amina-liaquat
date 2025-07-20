@@ -71,7 +71,8 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 
 ## 💻 Technical Skills
 <br>
-<table align= "center">
+<div align="center">
+<table align="center">
   <!-- Row 1 -->
   <tr>
     <td align="center" width="100">
@@ -84,13 +85,16 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br><sub><b>JavaScript</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" /><br><sub><b>Bootstrap </b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" /><br><sub><b>Bootstrap</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /><br><sub><b>Python</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" /><br><sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" /><br><sub><b>Java</b></sub>
     </td>
   </tr>
 
@@ -114,13 +118,13 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" /><br><sub><b>VS Code</b></sub>
     </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm" /><br><sub><b>PyCharm</b></sub>
+    </td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm" /><br><sub><b>PyCharm</b></sub>
-    </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" alt="Anaconda" /><br><sub><b>Anaconda</b></sub>
     </td>
@@ -136,21 +140,22 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
     <td align="center" width="100">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXiDkNz1jCL6FhvOOZcqs8RcnqrKlAjNaFHQ&s" width="40" alt="Netlify" /><br><sub><b>Netlify</b></sub>
     </td>
-  </tr>
-
-  <!-- Row 4 -->
-  <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" /><br><sub><b>Figma</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://localwp.com/wp-content/uploads/2021/01/local-lightning-icon.png" width="40" alt="LocalWP" /><br><sub><b>Local</b></sub>
     </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
     <td align="center" width="100">
       <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="40" alt="XAMPP" /><br><sub><b>XAMPP</b></sub>
     </td>
   </tr>
 </table>
+</div>
 
 ## 📊 GitHub Analytics 
 <br>
