@@ -160,18 +160,16 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 </table>
 </div>
 
-## 📊 GitHub Analytics 
+## 📊 GitHub Analytics
 <br>
 <p align="center">
   <a href="https://github.com/amina-liaquat56">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=9&theme=tokyonight&hide_border=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=30,e6e6fa,d8bfd8&title_color=9370db&icon_color=9370db&text_color=4b0082&border_color=c9a0dc&hide_border=false"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=9&theme=synthwave&hide_border=false&bg_color=30,e6e6fa,d8bfd8&title_color=9370db&text_color=4b0082&border_color=c9a0dc"/>
   </a>
   <br/>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&show_icons=true&locale=en&layout=demo&theme=synthwave&hide_border=false&background=e6e6fa&border=c9a0dc&stroke=c9a0dc&ring=9370db&fire=ba55d3&currStreakNum=4b0082&sideNums=4b0082&currStreakLabel=4b0082&sideLabels=4b0082&dates=4b0082"/>
 </p>
-
-
 
 
 
