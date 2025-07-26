@@ -8,7 +8,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
  ## 🌟About  <br> 
 - **Web Development**  
   Frontend development using **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **WordPress**.  
-  Always learning and building something new!
+  Always learning and building something new!.
 
 - **2x CS50x Puzzle Day Winner** (2024 & 2025)  
   Puzzle solving is my favorite brain workout.  
