@@ -95,14 +95,15 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 
 <p align="center">
   <a href="https://github.com/amina-liaquat56">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=1E90FF&icon_color=1E90FF&text_color=003366&bg_color=E6F0FA&hide_border=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=10&theme=default&title_color=1E90FF&text_color=003366&bg_color=E6F0FA&hide_border=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=1E90FF&icon_color=1E90FF&text_color=333333&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=10&theme=default&title_color=1E90FF&text_color=333333&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&theme=default&hide_border=false&currStreakLabel=1E90FF&ring=1E90FF&fire=1E90FF&sideLabels=003366&sideNums=003366&currStreakNum=003366&dates=666666&background=E6F0FA"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&theme=default&hide_border=true&currStreakLabel=1E90FF&ring=1E90FF&fire=1E90FF&sideLabels=333333&sideNums=333333&currStreakNum=333333&dates=666666"/>
 </p>
+
 
 
 
