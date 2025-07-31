@@ -95,15 +95,19 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 
 <div align="center" style="background-color:#f5f5f5; padding: 20px; border: 1px solid #ccc; border-radius: 10px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=default&title_color=800080&icon_color=800080&text_color=333333&bg_color=f5f5f5&border_color=cccccc" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=default&title_color=800080&icon_color=800080&text_color=333333&bg_color=f5f5f5&border_color=cccccc" width="55%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=10&hide_border=false&theme=default&title_color=800080&text_color=333333&bg_color=f5f5f5&border_color=cccccc" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=10&hide_border=false&theme=default&title_color=800080&text_color=333333&bg_color=f5f5f5&border_color=cccccc" width="40%" />
 
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&theme=default&hide_border=false&currStreakLabel=800080&ring=800080&fire=800080&sideLabels=333333&sideNums=333333&currStreakNum=333333&dates=666666&background=f5f5f5&border=cccccc" width="95%" />
 
 </div>
+
+
+
+
 
 
 
