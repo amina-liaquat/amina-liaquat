@@ -30,28 +30,16 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amina-liaquat/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn" title="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:aminaliaquat41@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail" title="Email"/>
-  </a>&nbsp;
-  <a href="https://github.com/amina-liaquat56" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" alt="GitHub" title="GitHub"/>
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/amina_liaquat04/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" alt="LeetCode" title="LeetCode"/>
-  </a>&nbsp;
-  <a href="https://x.com/amina_liaquat25?t=Be-rDRLeOSfyuYqXyrKIAw&s=08" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="40" alt="Twitter" title="Twitter"/>
-  </a>
+  <a href="https://www.linkedin.com/in/amina-liaquat/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
+  <a href="mailto:aminaliaquat41@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/></a>
+  <a href="https://github.com/amina-liaquat56" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/amina_liaquat04/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" alt="LeetCode"/></a>
+  <a href="https://x.com/amina_liaquat25?t=Be-rDRLeOSfyuYqXyrKIAw&s=08" target="_blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="40" alt="Twitter"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amina-liaquat56&style=flat-square&color=blue" alt="Profile Views" title="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=amina-liaquat56&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
-
-
 
 ## 💻 Technical Skills
 
@@ -105,28 +93,6 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&theme=default&hide_border=true&currStreakLabel=800080&ring=800080&fire=800080&sideLabels=333333&sideNums=333333&currStreakNum=333333&dates=666666&background=f5f5f5"/>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
