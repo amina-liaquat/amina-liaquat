@@ -41,8 +41,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
   <img src="https://komarev.com/ghpvc/?username=amina-liaquat56&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
-## 💻 Technical Skills
-
+## 💻 Tech Stack
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; padding: 20px;">
 
 <!-- Languages -->
@@ -57,6 +56,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 <!-- Frameworks -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQksrtKnDva4vVZppqEoZ1qYyg4Asf81vD3Mg&s" width="40" title="Tailwind CSS"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>&nbsp;
 
 <!-- Tools -->
@@ -67,6 +67,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" title="PyCharm"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" title="Anaconda"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>&nbsp;
 
 <!-- Other -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" title="MatLab"/>&nbsp;
@@ -78,6 +79,9 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLueaRJsD38b32MAw93xzUa7Pftq_l8BUDOw&s" width="40" title="DSA"/>&nbsp;
 
 </div>
+
+
+
 
 ## 📈 GitHub Analytics
 
