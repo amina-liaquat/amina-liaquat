@@ -29,7 +29,7 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/amina-liaquat/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/></a>
   <a href="mailto:aminaliaquat41@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/></a>
   <a href="https://github.com/amina-liaquat56" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40" alt="GitHub"/></a>
@@ -37,60 +37,61 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
   <a href="https://x.com/amina_liaquat25?t=Be-rDRLeOSfyuYqXyrKIAw&s=08" target="_blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="40" alt="Twitter"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amina-liaquat56&style=flat-square&color=blue" alt="Profile Views"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=amina-liaquat56&style=flat-square&color=9b59b6" alt="Profile Views"/>  
 </p>
 
-## 💻 Tech Stack
+## 💻 Tech Stack  
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; padding: 20px;">
+<div  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">  
 
 <!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>  
 
 <!-- Frameworks -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQksrtKnDva4vVZppqEoZ1qYyg4Asf81vD3Mg&s" width="40" title="Tailwind CSS"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>  
+<img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" title="Tailwind CSS"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>  
 
 <!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" title="WordPress"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" title="PyCharm"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" title="Anaconda"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>  <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" title="WordPress"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" title="PyCharm"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" title="Anaconda"/>  
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>  
 
-<!-- Other -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" title="MatLab"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>&nbsp;
-<img src="https://localwp.com/wp-content/uploads/2021/01/local-lightning-icon.png" width="40" title="LocalWP"/>&nbsp;
-<img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="40" title="XAMPP"/>&nbsp;
-<img src="https://avatars.githubusercontent.com/u/164544218?s=200&v=4" width="40" title="Thunder Client"/>&nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLueaRJsD38b32MAw93xzUa7Pftq_l8BUDOw&s" width="40" title="DSA"/>&nbsp;
+<!-- Others -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" title="MatLab"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>  
+<img src="https://localwp.com/wp-content/uploads/2021/01/local-lightning-icon.png" width="40" title="LocalWP"/>  
+<img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="40" title="XAMPP"/>  
+<img src="https://avatars.githubusercontent.com/u/164544218?s=200&v=4" width="40" title="Thunder Client"/>  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLueaRJsD38b32MAw93xzUa7Pftq_l8BUDOw&s" width="40" title="DSA"/>  
 
-</div>
+</div>  
 
+---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics  
 
-<p align="center">
-  <a href="https://github.com/amina-liaquat56">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=ffffff&bg_color=000000"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=10&hide_border=true&title_color=800080&text_color=ffffff&bg_color=000000"/>
-  </a>
-</p>
+<p>  
+  <a href="https://github.com/amina-liaquat56">  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff&bg_color=000000"/> <br> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=10&hide_border=true&title_color=9b59b6&text_color=ffffff&bg_color=000000"/>  
+  </a>  
+</p>  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&hide_border=true&ring=800080&fire=800080&currStreakLabel=800080&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=aaaaaa&background=000000"/>
-</p>
+<p>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&hide_border=true&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=aaaaaa&background=000000"/>  
+</p>  
