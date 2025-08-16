@@ -62,16 +62,15 @@ I'm Amina Liaquat, currently pursuing my MS in Computer Science at the Universit
 
 ![MatLab](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=flat&logo=mathworks&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![LocalWP](https://img.shields.io/badge/LocalWP-%232E7D32.svg?style=flat&logo=wordpress&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=flat&logo=xampp&logoColor=white) ![Thunder Client](https://img.shields.io/badge/Thunder_Client-%23000000.svg?style=flat&logo=thunderbird&logoColor=blue) ![DSA](https://img.shields.io/badge/DSA-%234A148C.svg?style=flat&logo=codeforces&logoColor=white)  
 
-
 ## 📈 GitHub Analytics  
 
-<p>  
-  <a href="https://github.com/amina-liaquat56">  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff&bg_color=000000"/> <br> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=8&hide_border=true&title_color=9b59b6&text_color=ffffff&bg_color=000000"/>  
-  </a>  
-</p>  
+<div>
+  <a href="https://github.com/amina-liaquat56">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000"/> <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=8&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=000000"/>
+  </a>
+</div>
 
-<p>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&hide_border=true&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=aaaaaa&background=000000"/>  
-</p>  
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=aaaaaa&background=000000"/>
+</div>
