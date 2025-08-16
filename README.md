@@ -81,8 +81,6 @@ I'm **Amina Liaquat**.I'm currently pursuing my **MS in Computer Science** at th
 
 </div>  
 
----
-
 ## 📈 GitHub Analytics  
 
 <p>  
