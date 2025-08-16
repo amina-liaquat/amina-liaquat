@@ -27,7 +27,7 @@ I'm Amina Liaquat, currently pursuing my MS in Computer Science at the Universit
    [Try Monkeytype](https://monkeytype.com)
 
 ## 🔗 Connect With Me  
-
+<br>
 <p>
   <a href="https://www.linkedin.com/in/amina-liaquat/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white" />
@@ -52,6 +52,7 @@ I'm Amina Liaquat, currently pursuing my MS in Computer Science at the Universit
 </p>
 
 ## 💻 Tech Stack  
+<br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white)  
 
