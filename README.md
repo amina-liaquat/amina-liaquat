@@ -2,7 +2,7 @@
   ━━━━━━  Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!  ━━━━━━ 
 </h2>
 
-I'm Amina Liaquat, currently pursuing my MS in Computer Science at the University of Agriculture, Faisalabad.I’m passionate about coding and web development, and I love creating webpages that anyone on the web can interact with.I enjoy programming in JavaScript and Python because they challenge me to think deeper and improve my problem-solving skills. The best part for me is the sense of achievement when I finally solve a difficult problem.
+I’m **Amina Liaquat**, an MS Computer Science student at the **University of Agriculture**, Faisalabad.I specialize in **web development** and enjoy creating interactive webpages.I work mainly with **JavaScript** and **Python**, which help me strengthen my **problem-solving skills** and deepen my programming knowledge.I thrive on the challenge of solving complex problems and the sense of accomplishment that comes with it.
 
  ## 🌟About  <br> 
 - **Web Development**  
