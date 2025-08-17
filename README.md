@@ -90,7 +90,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 <div>
   <a href="https://github.com/amina-liaquat56">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000"/> <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=8&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=000000"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=10&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=000000"/>
   </a>
 </div>
 
