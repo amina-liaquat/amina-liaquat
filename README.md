@@ -27,16 +27,21 @@ I'm Amina Liaquat, currently pursuing my MS in Computer Science at the Universit
    [Try Monkeytype](https://monkeytype.com)
 
 ## 🔗 Connect With Me  
+
 <p>
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=flat&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-liaquat/) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=flat&logo=gmail&logoColor=white)](mailto:aminaliaquat41@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)](https://github.com/amina-liaquat56) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/amina_liaquat04/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)](https://x.com/amina_liaquat25)  
+
 </p>
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=amina-liaquat56&style=flat&color=9b59b6" alt="Profile Views"/>  
 </p>
+
 
 ## 💻 Tech Stack  
 <p>
