@@ -87,13 +87,15 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 ## 📈 GitHub Analytics  
 
-<div>
+<p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=10&theme=gruvbox&hide_border=true"/> <br>
   <a href="https://github.com/amina-liaquat56">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000"/> <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=10&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=000000"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
+  
   </a>
-</div>
+</p>
 
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=aaaaaa&background=000000"/>
-</div>
+<p>
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&theme=gruvbox&hide_border=true"/>
+</p>
+
