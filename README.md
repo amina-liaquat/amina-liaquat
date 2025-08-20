@@ -88,7 +88,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 ## 📈 GitHub Analytics  
 
 <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=10&theme=gruvbox&hide_border=true"/> <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=11&theme=gruvbox&hide_border=true"/> <br>
   <a href="https://github.com/amina-liaquat56">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
   
