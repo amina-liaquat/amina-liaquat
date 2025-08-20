@@ -88,14 +88,12 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 ## 📈 GitHub Analytics  
 
 <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=11&theme=gruvbox&hide_border=true"/> <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=11&hide_border=true&bg_color=000000&title_color=ff4da6&text_color=ffffff&icon_color=ff4da6"/> 
   <a href="https://github.com/amina-liaquat56">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
-  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ff4da6&text_color=ffffff&icon_color=ff4da6"/>
   </a>
 </p>
 
 <p>
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&theme=gruvbox&hide_border=true"/>
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&hide_border=true&background=000000&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6&sideNums=ffffff&currStreakNum=ff4da6&sideLabels=ffffff"/>
 </p>
-
