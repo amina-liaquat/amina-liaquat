@@ -14,7 +14,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
   Check it out here: [CS50 Puzzle Day](https://ik.imagekit.io/fjchcwc5f/WhatsApp\%20Image\%202025-07-06\%20at\%2010.53.51\%20AM.jpeg?updatedAt=1751781535212)
 
 - **AI & Machine Learning**  
-  Currently researching deep learning  using **DenseNet121**.  
+  Currently researching deep learning  using **EfficientNet**.  
   Working with **Python**, **Jupyter**, and **Anaconda**.
 
 - **DSA & LeetCode**  
