@@ -1,34 +1,30 @@
 <h2 align="center">
   ━━━━━━  Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!  ━━━━━━ 
 </h2>
+<hr>
+    
+I’m **Amina Liaquat**, an MS Computer Science student at the **University of Agriculture, Faisalabad**.  I specialize in **web development** and enjoy creating interactive webpages.  I work mainly with **JavaScript** and **Python**, which help me strengthen my **problem-solving skills** and deepen my programming knowledge.  I thrive on the challenge of solving complex problems and the sense of accomplishment that comes with it.  
+<hr>
 
-I’m **Amina Liaquat**, an MS Computer Science student at the **University of Agriculture**, Faisalabad.I specialize in **web development** and enjoy creating interactive webpages.I work mainly with **JavaScript** and **Python**, which help me strengthen my **problem-solving skills** and deepen my programming knowledge.I thrive on the challenge of solving complex problems and the sense of accomplishment that comes with it.
+### What I'm Up To
 
- ## 🌟About  <br> 
-- **Web Development**  
-  Frontend development using **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **WordPress**.  
-  Always learning and building something new!.
+- **Currently researching** deep learning with EfficientNet.
+- **Learning** advanced algorithms and data structures.
+- **Looking to collaborate** on open-source web projects.
+- **2024 Goals** Contribute more to open source and enhance my AI skills.
+- **Fun fact** I've doubled my typing speed from 18 to 40 WPM!.
+<hr>
 
-- **2x CS50x Puzzle Day Winner** (2024 & 2025)  
-  Puzzle solving is my favorite brain workout.  
-  Check it out here: [CS50 Puzzle Day](https://ik.imagekit.io/fjchcwc5f/WhatsApp\%20Image\%202025-07-06\%20at\%2010.53.51\%20AM.jpeg?updatedAt=1751781535212)
+### 🏆 Achievements
 
-- **AI & Machine Learning**  
-  Currently researching deep learning  using **EfficientNet**.  
-  Working with **Python**, **Jupyter**, and **Anaconda**.
+- **2x CS50x Puzzle Day Winner** (2024 & 2025).
+- **LeetCode** regular problem solver.
+- Created multiple responsive web applications.
 
-- **DSA & LeetCode**  
-  Practicing **Data Structures & Algorithms** every day.  
-  Solving challenges to sharpen my logic and coding skills.  
-  [LeetCode Profile](https://leetcode.com/u/amina_liaquat04/)
+<hr>
 
-- **Typing Speed Journey**  
-  From 18 WPM to **40 WPM** on Monkeytype and still improving!  
-   [Try Monkeytype](https://monkeytype.com)
-
-## 🔗 Connect With Me  
-
-<p>
+## 📫 Let's Connect!
+<hr>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-liaquat/) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=flat&logo=gmail&logoColor=white)](mailto:aminaliaquat41@gmail.com) 
@@ -36,14 +32,14 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/amina_liaquat04/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)](https://x.com/amina_liaquat25)  
 
-</p>
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=amina-liaquat56&style=flat&color=9b59b6" alt="Profile Views"/>  
 </p>
 
+<hr>
 
 ## 💻 Tech Stack  
+<hr>
 <p>
   
   <!-- Languages -->
@@ -85,8 +81,10 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 </p>
 
-## 📈 GitHub Analytics  
+<hr>
 
+## 📈 GitHub Analytics  
+<hr>
 <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=11&hide_border=true&bg_color=000000&title_color=ff4da6&text_color=ffffff&icon_color=ff4da6"/> 
   <a href="https://github.com/amina-liaquat56">
@@ -97,3 +95,4 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 <p>
   <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&hide_border=true&background=000000&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6&sideNums=ffffff&currStreakNum=ff4da6&sideLabels=ffffff"/>
 </p>
+<hr>
