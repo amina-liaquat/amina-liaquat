@@ -1,6 +1,4 @@
-<h2 align="center">
-  ━━━━━━  Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!  ━━━━━━ 
-</h2>
+<h2 align="center">━━━━━━  Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!  ━━━━━━ </h2>
 <hr>
     
 I’m **Amina Liaquat**, an MS Computer Science student at the **University of Agriculture, Faisalabad**.  I specialize in **web development** and enjoy creating interactive webpages.  I work mainly with **JavaScript** and **Python**, which help me strengthen my **problem-solving skills** and deepen my programming knowledge.  I thrive on the challenge of solving complex problems and the sense of accomplishment that comes with it.  
@@ -23,8 +21,8 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 <hr>
 
-## 📫 Let's Connect!
-<hr>
+### 📫 Let's Connect!
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-liaquat/) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=flat&logo=gmail&logoColor=white)](mailto:aminaliaquat41@gmail.com) 
@@ -38,8 +36,8 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 <hr>
 
-## 💻 Tech Stack  
-<hr>
+### 💻 Tech Stack  
+
 <p>
   
   <!-- Languages -->
@@ -83,8 +81,8 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 <hr>
 
-## 📈 GitHub Analytics  
-<hr>
+### 📈 GitHub Analytics  
+
 <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=11&hide_border=true&bg_color=000000&title_color=ff4da6&text_color=ffffff&icon_color=ff4da6"/> 
   <a href="https://github.com/amina-liaquat56">
