@@ -1,4 +1,9 @@
-<h2 align="center">━━━━━━  Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!  ━━━━━━ </h2>
+<p align="center">
+  <font size="6">━━━━━━  Hello there, fellow &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!  ━━━━━━</font>
+</p>
+
+
+
 <hr>
     
 I’m **Amina Liaquat**, an MS Computer Science student at the **University of Agriculture, Faisalabad**.  I specialize in **web development** and enjoy creating interactive webpages.  I work mainly with **JavaScript** and **Python**, which help me strengthen my **problem-solving skills** and deepen my programming knowledge.  I thrive on the challenge of solving complex problems and the sense of accomplishment that comes with it.  
@@ -84,13 +89,12 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 ### 📈 GitHub Analytics  
 
 <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=11&hide_border=true&bg_color=000000&title_color=ff4da6&text_color=ffffff&icon_color=ff4da6"/> 
   <a href="https://github.com/amina-liaquat56">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ff4da6&text_color=ffffff&icon_color=ff4da6"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=11&hide_border=true&bg_color=000000&title_color=9b59b6&text_color=ffffff&icon_color=e056fd"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=9b59b6&text_color=ffffff&icon_color=e056fd"/>
   </a>
 </p>
 
 <p>
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&hide_border=true&background=000000&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6&sideNums=ffffff&currStreakNum=ff4da6&sideLabels=ffffff"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&hide_border=true&background=000000&ring=9b59b6&fire=e056fd&currStreakLabel=e056fd&sideNums=ffffff&currStreakNum=9b59b6&sideLabels=ffffff"/>
 </p>
-<hr>
