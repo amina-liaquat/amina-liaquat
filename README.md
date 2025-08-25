@@ -1,5 +1,5 @@
 <p align="center">
-  <font size="6">━━━━━━  Hello there, fellow &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!  ━━━━━━</font>
+  <font size="6"><strong>━━━━━━  Hello there, fellow &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!  ━━━━━━</strong></font>
 </p>
 
 
