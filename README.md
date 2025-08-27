@@ -84,7 +84,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 </p>
 
-<hr>
+---
 
 ### 📈 GitHub Analytics  
 <b>
