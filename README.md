@@ -33,9 +33,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/amina_liaquat04/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)](https://x.com/amina_liaquat25)  
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=amina-liaquat56&style=flat&color=9b59b6" alt="Profile Views"/>  
-</p>
+
 
 <hr>
 
@@ -50,14 +48,14 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 ### 📈 GitHub Analytics  
 
 <p>
-  <a href="https://github.com/amina-liaquat56">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat56&layout=compact&langs_count=11&hide_border=true&bg_color=000000&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat56&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f"/>
+  <a href="https://github.com/amina-liaquat">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat&layout=compact&langs_count=11&hide_border=true&bg_color=000000&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f"/>
   </a>
 </p>
 
 <p>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat56&hide_border=true&background=000000&ring=00ff7f&fire=00ff7f&currStreakLabel=00ff7f&sideNums=ffffff&currStreakNum=00ff7f&sideLabels=ffffff"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat&hide_border=true&background=000000&ring=00ff7f&fire=00ff7f&currStreakLabel=00ff7f&sideNums=ffffff&currStreakNum=00ff7f&sideLabels=ffffff"/>
 </p>
 
 ---
