@@ -29,7 +29,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-liaquat/) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=flat&logo=gmail&logoColor=white)](mailto:aminaliaquat41@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)](https://github.com/amina-liaquat56) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)](https://github.com/amina-liaquat) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/amina_liaquat04/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)](https://x.com/amina_liaquat25)  
 
