@@ -14,6 +14,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 - **Looking to collaborate** on open-source web projects.
 - **2025 Goal** Contribute more to open source and enhance my AI skills.
 - **Fun fact** I've doubled my typing speed from 18 to 40 WPM!.
+
 <hr>
 
 ### 🏆 Achievements
@@ -24,7 +25,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 <hr>
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-liaquat/) 
