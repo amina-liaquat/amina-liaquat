@@ -56,8 +56,9 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 </p>
 
 <p>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat&hide_border=true&background=000000&ring=00ff7f&fire=00ff7f&currStreakLabel=00ff7f&sideNums=ffffff&currStreakNum=00ff7f&sideLabels=ffffff"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat&hide_border=true&background=000000&ring=00ff7f&fire=00ff7f&currStreakLabel=ffffff&currStreakNum=00ff7f&sideNums=00ff7f&sideLabels=ffffff"/>
 </p>
+
 
 ---
 
