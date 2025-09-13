@@ -3,8 +3,9 @@
 </p>
 
 <hr>
-    
-I’m **Amina Liaquat**, an MS Computer Science student at the **University of Agriculture, Faisalabad**.I specialize in **web development** and enjoy creating interactive webpages.  I mainly work with **JavaScript** and **Python**, which help me strengthen my **problem-solving skills** and deepen my programming knowledge.  
+
+I’m **Amina Liaquat**, an MS Computer Science student at the **University of Agriculture, Faisalabad**.  I specialize in **web development** and enjoy working with **Python, DSA, and problem-solving**.  I’m also passionate about **machine learning** and constantly improving my **coding skills** through LeetCode.  
+
 <hr>
 
 ### What I'm Up To
@@ -19,27 +20,28 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 ### 🏆 Achievements
 
-- 2x CS50x Puzzle Day Winner (2024 & 2025)  
-- LeetCode problem solver (check out my [LeetCode profile](https://leetcode.com/u/amina_liaquat04/))  
-- Completed **Data Structures and Algorithms** journey  
-- Building projects in **Python, and Web Development** 
+- **2x CS50x** Puzzle Day Winner (2024 & 2025).  
+- **LeetCode** regular problem solver.  
+- Completed **Data Structures and Algorithms** journey. 
+- Building projects in **Python, and Web Development**.
 
 <hr>
 
 ### Let's Connect!
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amina-liaquat/) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=flat&logo=gmail&logoColor=white)](mailto:aminaliaquat41@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)](https://github.com/amina-liaquat) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/amina_liaquat04/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white)](https://x.com/amina_liaquat25)  
-
-
+<p>
+  <a href="https://www.linkedin.com/in/amina-liaquat/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:aminaliaquat41@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://github.com/amina-liaquat"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://leetcode.com/u/amina_liaquat04/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/></a>
+  <a href="https://x.com/amina_liaquat25"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+</p>
+ 
 
 <hr>
 
 ### 💻 Tech Stack  
+
 
 <p>
   <img src="https://skills.syvixor.com/api/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,python,php,java,wordpress,googlecolaboratory,git,github,githubcopilot,vscode,pycharm,anaconda,postman,jupyter,matlab,figma,firebase,slack,chatgpt" />
