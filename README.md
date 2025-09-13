@@ -8,7 +8,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 <hr>
 
-### ⭐ About Me 
+### ⭐About Me 
 
 - **Currently researching** deep learning with EfficientNet.
 - **Learning** advanced algorithms and data structures.
@@ -44,7 +44,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 
 <p>
-  <img src="https://skills.syvixor.com/api/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,python,php,java,wordpress,googlecolaboratory,git,github,githubcopilot,vscode,pycharm,anaconda,postman,jupyter,matlab,kaggle,figma,firebase,slack,chatgpt" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,python,php,java,wordpress,vercel,googlecolaboratory,git,github,githubcopilot,vscode,pycharm,anaconda,postman,jupyter,matlab,kaggle,figma,firebase,slack,chatgpt" />
 </p>
 
 
