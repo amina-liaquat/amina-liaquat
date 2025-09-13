@@ -27,7 +27,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 <hr>
 
-### Let's Connect!
+### 🔗 Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/amina-liaquat/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
@@ -44,7 +44,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 
 <p>
-  <img src="https://skills.syvixor.com/api/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,python,php,java,wordpress,googlecolaboratory,git,github,githubcopilot,vscode,pycharm,anaconda,postman,jupyter,matlab,figma,firebase,slack,chatgpt" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,python,php,java,wordpress,googlecolaboratory,git,github,githubcopilot,vscode,pycharm,anaconda,postman,jupyter,matlab,kaggle,figma,firebase,slack,chatgpt" />
 </p>
 
 
