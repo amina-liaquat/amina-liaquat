@@ -19,9 +19,10 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 ### 🏆 Achievements
 
-- **2x CS50x Puzzle Day Winner** (2024 & 2025).
-- **LeetCode** regular problem solver.
-- Created multiple responsive web applications.
+- 2x CS50x Puzzle Day Winner (2024 & 2025)  
+- LeetCode problem solver (check out my [LeetCode profile](https://leetcode.com/u/amina_liaquat04/))  
+- Completed **Data Structures and Algorithms** journey  
+- Building projects in **Python, and Web Development** 
 
 <hr>
 
@@ -40,9 +41,10 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 ### 💻 Tech Stack  
 
-| **Languages** | **Frameworks & Libraries** | **Tools & IDEs** |
-|---------------|-----------------------------|------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white) | ![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=flat&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat&logo=pycharm&logoColor=green) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=flat&logo=mathworks&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) |
+<p>
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,python,php,java,wordpress,googlecolaboratory,git,github,githubcopilot,vscode,pycharm,anaconda,postman,jupyter,matlab,figma,firebase,slack,chatgpt" />
+</p>
+
 
 ---
 
