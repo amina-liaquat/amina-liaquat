@@ -8,7 +8,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 <hr>
 
-### About Me 
+### 💫 About Me 
 
 - **Currently researching** deep learning with EfficientNet.
 - **Learning** advanced algorithms and data structures.
