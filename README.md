@@ -4,7 +4,7 @@
 
 <hr>
 
-I’m **Amina Liaquat**, an MS Computer Science student at the **University of Agriculture, Faisalabad**.  I specialize in **web development** and enjoy working with **Python, DSA, and problem-solving**.  I’m also passionate about **machine learning** and constantly improving my **coding skills** through LeetCode.  
+I’m **Amina Liaquat**, an MS Computer Science student at the **University of Agriculture, Faisalabad**.  I specialize in **Web development** and enjoy working with **Python, DSA, and Problem solving**.  I’m also passionate about **Machine learning** and constantly improving my **Coding skills** through LeetCode.  
 
 <hr>
 
