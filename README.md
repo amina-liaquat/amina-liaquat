@@ -8,7 +8,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 <hr>
 
-### ⭐About Me 
+### ⭐ About Me
 
 - **Currently researching** deep learning with EfficientNet.
 - **Learning** advanced algorithms and data structures.
@@ -28,7 +28,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 <hr>
 
 ### 🔗 Connect with Me
-
+<br>
 <p>
   <a href="https://www.linkedin.com/in/amina-liaquat/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="mailto:aminaliaquat41@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
@@ -40,9 +40,9 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 <hr>
 
-### 💻 Tech Stack  
+### 🛠️Languages & Tools
 
-
+<br>
 <p>
   <img src="https://skills.syvixor.com/api/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,python,php,mysql,java,wordpress,vercel,googlecolaboratory,git,github,githubcopilot,vscode,pycharm,anaconda,postman,jupyter,matlab,kaggle,figma,firebase,slack,chatgpt" />
 </p>
@@ -51,7 +51,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 ---
 
 ### 📈 GitHub Analytics  
-
+<br>
 <p>
   <a href="https://github.com/amina-liaquat">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat&layout=compact&langs_count=11&hide_border=true&bg_color=000000&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f"/>
@@ -65,4 +65,3 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 
 ---
-
