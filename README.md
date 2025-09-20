@@ -51,7 +51,6 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 ---
 
 ### 📈 GitHub Analytics  
-<br>
 <p align="center">
   <a href="https://github.com/amina-liaquat">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat&show_icons=true&theme=radical"/>
