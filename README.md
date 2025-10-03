@@ -4,6 +4,7 @@
 
 <hr>
 
+
 I’m **Amina Liaquat**, an MS Computer Science student at the **University of Agriculture, Faisalabad**.  I specialize in **Web development** and enjoy working with **Python, DSA, and Problem solving**.  I’m also passionate about **Machine learning** and constantly improving my **Coding skills** through LeetCode.  
 
 <div align="center">
@@ -12,6 +13,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 [![Gmail](https://img.icons8.com/color/30/gmail-new.png) `aminaliaquat41@gmail.com`](mailto:aminaliaquat41@gmail.com)
 
 </div> 
+
 
 <hr>
 
