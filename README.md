@@ -8,7 +8,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 <div align="center">
   
-[<img src="https://static.vecteezy.com/system/resources/previews/048/759/320/non_2x/linktree-transparent-icon-free-png.png" height="30"/> `amina_liaquat`](https://linktr.ee/amina_liaquat)
+[<img src="https://static.vecteezy.com/system/resources/previews/048/759/320/non_2x/linktree-transparent-icon-free-png.png" height="30"/> `amina_liaquat`](https://linktr.ee/amina_liaquat25)
 [![Gmail](https://img.icons8.com/color/30/gmail-new.png) `aminaliaquat41@gmail.com`](mailto:aminaliaquat41@gmail.com)
 
 </div> 
