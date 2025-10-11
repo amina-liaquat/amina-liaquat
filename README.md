@@ -14,10 +14,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 </div> 
 
-
-<hr>
-
-### ⭐ About Me
+## ⭐About Me
 
 - **Currently researching** deep learning with EfficientNet.
 - **Learning** advanced algorithms and data structures.
@@ -25,19 +22,19 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 - **2025 Goal** Contribute more to open source and enhance my AI skills.
 - **Fun fact** I've doubled my typing speed from 18 to 40 WPM!.
 
-<hr>
 
-### 🏆 Achievements
+
+## 🏆 Achievements
 
 - **2x CS50x** Puzzle Day Winner (2024 & 2025).  
 - **LeetCode** regular problem solver.  
 - Completed **Data Structures and Algorithms** journey. 
 - Building projects in **Python, and Web Development**.
 
-<hr>
 
 
-### 🛠️Languages & Tools
+
+## 🛠️Languages & Tools
 
 <br>
 <p>
@@ -45,23 +42,19 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 </p>
 
 
----
+## 📈 GitHub Analytics 
 
-### 📈 GitHub Analytics 
-
-<p align = "center">
+<p>
   <a href="https://github.com/amina-liaquat">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
     
   </a>
 </p>
 
-<p  align = "center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
-
 
 
 ---
