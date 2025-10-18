@@ -46,7 +46,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 <p>
   <a href="https://github.com/amina-liaquat">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
     
   </a>
