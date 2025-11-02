@@ -46,15 +46,15 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 <p>
   <a href="https://github.com/amina-liaquat">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat&layout=compact&langs_count=8&theme=merko" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat&show_icons=true&theme=merko" alt="GitHub Stats"/>
   </a>
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat&theme=merko" alt="GitHub Streak"/>
 </p>
+
 
 
 ---
