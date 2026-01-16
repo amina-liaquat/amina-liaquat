@@ -39,7 +39,18 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
   <img src="https://skills.syvixor.com/api/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,python,php,cpp,mysql,java,wordpress,vercel,googlecolaboratory,git,github,githubcopilot,vscode,pycharm,anaconda,deepseek,postman,jupyter,matlab,netlify,kaggle,figma,firebase,slack,chatgpt" />
 </p>
 
+## 📈 GitHub Analytics 
 
+<p align = "center">
+  <a href="https://github.com/amina-liaquat">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amina-liaquat&show_icons=true&theme=merko" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat&layout=compact&langs_count=8&theme=merko" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align = "center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amina-liaquat&theme=merko" alt="GitHub Streak"/>
+</p>
 
 
 ---
