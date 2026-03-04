@@ -19,7 +19,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 - **Currently researching** deep learning with EfficientNet.
 - **Learning** advanced algorithms and data structures.
 - **Looking to collaborate** on open-source web projects.
-- **2025 Goal** Contribute more to open source and enhance my AI skills.
+- **2026 Goal** Contribute more to open source and enhance my AI skills.
 
 
 ## 🏆 Achievements
