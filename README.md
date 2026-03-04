@@ -34,7 +34,7 @@ I’m **Amina Liaquat**, an MS Computer Science student at the **University of A
 
 <br>
 <p>
-  <img src="https://skills.syvixor.com/api/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,python,php,cpp,mysql,java,wordpress,vercel,googlecolaboratory,git,github,githubcopilot,vscode,pycharm,anaconda,deepseek,postman,jupyter,matlab,netlify,kaggle,figma,firebase,slack,chatgpt" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,python,php,cpp,mysql,java,wordpress,vercel,googlecolaboratory,git,github,githubcopilot,vscode,pycharm,anaconda,deepseek,postman,jupyter,matlab,netlify,kaggle,figma,firebase,slack,chatgpt,pytorch" />
 </p>
 
 ## 📈 GitHub Analytics
