@@ -39,14 +39,14 @@ I’m **Amina Liaquat**, a **Computer Science** graduate from the **University o
 
 ## 📈 GitHub Analytics
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://github.com/amina-liaquat">
     <img height="180em" 
          src="https://github-readme-stats.vercel.app/api?username=amina-liaquat&show_icons=true&theme=merko&count_private=true&include_all_commits=true" />
     <img height="180em" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat&layout=compact&langs_count=8&theme=merko" />
   </a>
-</p> -->
+</p>
 
 <p align="center">
   <img 
