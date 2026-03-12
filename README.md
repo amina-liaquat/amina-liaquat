@@ -19,7 +19,7 @@ I’m **Amina Liaquat**, a **Computer Science** graduate from the **University o
 - **Currently researching** deep learning with EfficientNet.
 - **Learning** advanced algorithms and data structures.
 - **Looking to collaborate** on open-source web projects.
-- **2026 Goal** Contribute more to open source and enhance my AI skills.
+- **2026 Goal:** Contribute more to open source and enhance my AI skills.
 
 
 ## 🏆 Achievements
