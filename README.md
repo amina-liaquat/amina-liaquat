@@ -4,8 +4,7 @@
 
 <hr>
 
-
-I’m **Amina Liaquat**, a **Computer Science** graduate from the **University of Agriculture, Faisalabad**. I specialize in **web development** and enjoy working with **Python, Data Structures & Algorithms,** and **problem solving**. I’m also passionate about **Machine learning** and continuously improve my coding skills by solving problems on **LeetCode**.  
+I’m **Amina Liaquat**, a **Computer Science** graduate from the **University of Agriculture, Faisalabad**. I specialize in **web development** and enjoy **problem solving**, **Python**, and **Data Structures & Algorithms**. I’m also interested in **Machine Learning** and regularly practice coding on **LeetCode**.
 
 <div align="center">
   
@@ -14,14 +13,14 @@ I’m **Amina Liaquat**, a **Computer Science** graduate from the **University o
 
 </div> 
 
-## ⭐About Me
+## ⭐ About Me
 
-- **Currently researching** deep learning with EfficientNet.
-- **Learning** advanced algorithms and data structures.
-- **Looking to collaborate** on open-source web projects.
-- **2026 Goal:** Contribute more to open source and enhance my AI skills.
+- **Currently researching Deep Learning** with EfficientNet, focusing on medical and agricultural image analysis.
+- **Learning advanced algorithms and data structures** to strengthen problem-solving skills and improve coding efficiency.
+- **Looking to collaborate on open-source web development projects** and contribute to building useful and user-friendly applications.
+- **2026 Goal:** Contribute more to open source, build meaningful projects, and further develop my skills in AI and Machine Learning.
 
-
+  
 ## 🏆 Achievements
 
 - **2× CS50x** Puzzle Day Winner (2024 & 2025).
