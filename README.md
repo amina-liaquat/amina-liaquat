@@ -30,7 +30,7 @@ I’m **Amina Liaquat**, a **Computer Science** graduate from the **University o
 
   [CS50x Puzzle Day 2025 Certificate](https://img.sanishtech.com/u/b77f573c0363fc6239bd3f054d2dd393.jpeg)
 
-- **LeetCode** Regular Problem Solver  
+- **LeetCode** Regular Problem Solver.  
   - [View My LeetCode Profile](https://leetcode.com/u/amina_liaquat04/)
 - Completed **Data Structures and Algorithms** journey. 
 - Building projects in **Python, and Web Development**.
