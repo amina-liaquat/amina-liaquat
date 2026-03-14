@@ -24,8 +24,14 @@ I’m **Amina Liaquat**, a **Computer Science** graduate from the **University o
 
 ## 🏆 Achievements
 
-- **2x CS50x** Puzzle Day Winner (2024 & 2025).  
-- **LeetCode** regular problem solver.  
+- **2× CS50x** Puzzle Day Winner (2024 & 2025).
+
+  ![CS50x Puzzle Day 2024 Certificate](https://getshared.com/d/fPQz5Kr5)
+
+  ![CS50x Puzzle Day 2025 Certificate](https://getshared.com/d/KtmEhBNF)
+
+- **LeetCode** Regular Problem Solver  
+  - [View My LeetCode Profile](https://leetcode.com/u/amina_liaquat04/)
 - Completed **Data Structures and Algorithms** journey. 
 - Building projects in **Python, and Web Development**.
 
