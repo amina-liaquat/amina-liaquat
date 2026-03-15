@@ -8,7 +8,7 @@ I’m **Amina Liaquat**, a **Computer Science** graduate from the **University o
 
 <div align="center">
   
-[<img src="https://static.vecteezy.com/system/resources/previews/048/759/320/non_2x/linktree-transparent-icon-free-png.png" height="30"/> `amina_liaquat`](https://linktr.ee/amina_liaquat25) &nbsp;|&nbsp;
+[<img src="https://static.vecteezy.com/system/resources/previews/048/759/320/non_2x/linktree-transparent-icon-free-png.png" height="30"/> `amina_liaquat`](https://linktr.ee/amina_liaquat25)
 [![Gmail](https://img.icons8.com/color/30/gmail-new.png) `aminaliaquat41@gmail.com`](mailto:aminaliaquat41@gmail.com)
 
 </div> 
@@ -25,11 +25,11 @@ I’m **Amina Liaquat**, a **Computer Science** graduate from the **University o
 
 ## 🏆 Achievements
 
-- **2× CS50x Puzzle Day Winner (2024 & 2025)**
+- **2× CS50x Puzzle Day Winner (2024 & 2025):**
   - [2024 Certificate](https://image2url.com/r2/default/images/1773556617918-61c22d89-618d-414b-b335-376ccf599197.jpeg)  
   - [2025 Certificate](https://image2url.com/r2/default/images/1773556515629-0006f84d-4d4b-47f2-94c7-079ace69e513.jpeg)
 
-- **LeetCode Regular Problem Solver**  
+- **LeetCode Regular Problem Solver:**  
   - [View My Profile](https://leetcode.com/u/amina_liaquat04/)
 
 - Completed **Data Structures and Algorithms journey**.  
