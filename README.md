@@ -16,10 +16,10 @@ I’m **Amina Liaquat**, a **Computer Science** graduate from the **University o
 
 ## ⭐ About Me
 
-- **Currently researching Deep Learning** with EfficientNet, focusing on medical and agricultural image analysis.  
-- **Learning advanced algorithms and data structures** to improve problem-solving skills.  
-- **Open to collaborating on open-source web development projects**, contributing to useful and user-friendly applications.  
-- **2026 Goal:** Contribute more to open source, build meaningful projects, and advance my skills in AI and Machine Learning.
+- Researching **Deep Learning** for medical and agricultural image analysis.  
+- Improving **problem-solving** through advanced algorithms and data structures.  
+- Open to **open-source web development collaborations**.  
+- **2026 Goal:** Build impactful projects and grow in **AI & Machine Learning**.
 
 
 
