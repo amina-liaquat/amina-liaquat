@@ -32,7 +32,8 @@ I’m **Amina Liaquat**, a **Computer Science** graduate from the **University o
 - **LeetCode Regular Problem Solver:**  
   - [View My Profile](https://leetcode.com/u/amina_liaquat04/)
 
-- Completed **Data Structures and Algorithms journey**.  
+- Completed **Data Structures and Algorithms journey:**
+   - [View Repository](https://github.com/amina-liaquat/DSA-with-python.git)   
 
 - **Projects in Python and Web Development:**  
   - [Digital Bubble Wrap](https://github.com/amina-liaquat/Digital_Bubbble_Wrap)  
