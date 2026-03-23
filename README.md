@@ -4,7 +4,7 @@
 
 <hr>
 
-I’m **Amina Liaquat**, a **Computer Science** graduate from the **University of Agriculture, Faisalabad**. I specialize in **web development** and enjoy **problem solving**, **Python**, and **Data Structures & Algorithms**. I’m also passionate about **Machine Learning** and regularly practice coding on **LeetCode**.
+
 
 <div align="center">
   
