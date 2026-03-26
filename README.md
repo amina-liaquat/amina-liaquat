@@ -4,6 +4,8 @@
 
 <hr>
 
+I am passionate about Web Development, Problem Solving, and Artificial Intelligence.I focus on building practical and impactful solutions through coding and projects.
+
 
 
 <div align="center">
