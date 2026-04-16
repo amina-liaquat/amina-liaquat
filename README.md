@@ -28,9 +28,8 @@ I am passionate about Web Development, Problem Solving, and Artificial Intellige
 ## 🏆 Achievements
 
 - **2× CS50x Puzzle Day Winner (2024 & 2025):**
-  - [2024](https://image2url.com/r2/default/images/1773556617918-61c22d89-618d-414b-b335-376ccf599197.jpeg)  
-  - [2025](https://image2url.com/r2/default/images/1773556515629-0006f84d-4d4b-47f2-94c7-079ace69e513.jpeg)
-  - [2026](https://kommodo.ai/i/CIqlWvy6aRb1R6HEm8ok)
+  
+   - [2024](https://image2url.com/r2/default/images/1773556617918-61c22d89-618d-414b-b335-376ccf599197.jpeg) || [2025](https://image2url.com/r2/default/images/1773556515629-0006f84d-4d4b-47f2-94c7-079ace69e513.jpeg) || [2026](https://kommodo.ai/i/CIqlWvy6aRb1R6HEm8ok)
 
 
 - **LeetCode Regular Problem Solver:**  
