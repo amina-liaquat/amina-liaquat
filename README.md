@@ -54,16 +54,16 @@
 
 <p align="center">
   <a href="https://github.com/amina-liaquat">
-    <img height="180em"
+    <img height="170em"
          src="https://github-readme-stats.vercel.app/api?username=amina-liaquat&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-    <img height="180em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat&layout=compact&langs_count=10&theme=tokyonight" />
+    <img height="170em"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina-liaquat&layout=compact&langs_count=8&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-streak-stats.herokuapp.com?user=amina-liaquat&theme=tokyonight" />
+  <img height="170em"
+       src="https://github-readme-streak-stats.herokuapp.com?user=amina-liaquat&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
